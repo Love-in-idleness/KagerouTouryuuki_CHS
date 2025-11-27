@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>800</Width>
+  <Height>600</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">bg</Item>
+    <Item x="54" y="497" flag="40">text</Item>
+    <Item x="43" y="542" flag="40">prev</Item>
+    <Item x="43" y="542" flag="40">prev_f</Item>
+    <Item x="93" y="542" flag="40">next</Item>
+    <Item x="93" y="542" flag="40">next_f</Item>
+    <Item x="682" y="542" flag="40">exit</Item>
+    <Item x="682" y="542" flag="40">exit_f</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="285" y="542" flag="40">page_0</Item>
+    <Item x="285" y="542" flag="40">page_0_f</Item>
+    <Item x="335" y="542" flag="40">page_1</Item>
+    <Item x="335" y="542" flag="40">page_1_f</Item>
+    <Item x="385" y="542" flag="40">page_2</Item>
+    <Item x="385" y="542" flag="40">page_2_f</Item>
+    <Item x="435" y="542" flag="40">page_3</Item>
+    <Item x="435" y="542" flag="40">page_3_f</Item>
+    <Item x="485" y="542" flag="40">page_4</Item>
+    <Item x="485" y="542" flag="40">page_4_f</Item>
+    <Item x="536" y="542" flag="40">page_5</Item>
+    <Item x="536" y="542" flag="40">page_5_f</Item>
+    <Item x="0" y="0" flag="56">page</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="581" y="356" flag="40">thmb_11</Item>
+    <Item x="405" y="356" flag="40">thmb_10</Item>
+    <Item x="229" y="356" flag="40">thmb_9</Item>
+    <Item x="53" y="356" flag="40">thmb_8</Item>
+    <Item x="581" y="220" flag="40">thmb_7</Item>
+    <Item x="405" y="219" flag="40">thmb_6</Item>
+    <Item x="229" y="220" flag="40">thmb_5</Item>
+    <Item x="53" y="220" flag="40">thmb_4</Item>
+    <Item x="581" y="84" flag="40">thmb_3</Item>
+    <Item x="405" y="84" flag="40">thmb_2</Item>
+    <Item x="229" y="84" flag="40">thmb_1</Item>
+    <Item x="53" y="84" flag="40">thmb_0</Item>
+    <Item x="0" y="0" flag="56">thmb</Item>
+  </Items>
+</Canvas>

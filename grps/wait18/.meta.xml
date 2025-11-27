@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>18</Width>
+  <Height>18</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">レイヤー 1</Item>
+    <Item x="0" y="0" flag="40">レイヤー 2</Item>
+    <Item x="0" y="0" flag="40">レイヤー 3</Item>
+    <Item x="0" y="0" flag="40">レイヤー 4</Item>
+    <Item x="0" y="0" flag="40">レイヤー 5</Item>
+    <Item x="0" y="0" flag="40">レイヤー 6</Item>
+    <Item x="0" y="0" flag="40">レイヤー 7</Item>
+    <Item x="0" y="0" flag="40">レイヤー 8</Item>
+    <Item x="0" y="0" flag="40">レイヤー 9</Item>
+    <Item x="0" y="0" flag="40">レイヤー 10</Item>
+    <Item x="0" y="0" flag="40">レイヤー 11</Item>
+    <Item x="0" y="0" flag="40">レイヤー 12</Item>
+    <Item x="0" y="0" flag="40">レイヤー 13</Item>
+    <Item x="0" y="0" flag="40">レイヤー 14</Item>
+    <Item x="0" y="0" flag="40">レイヤー 15</Item>
+    <Item x="0" y="0" flag="40">レイヤー 16</Item>
+    <Item x="0" y="0" flag="40">レイヤー 17</Item>
+    <Item x="0" y="0" flag="40">レイヤー 18</Item>
+    <Item x="0" y="0" flag="40">レイヤー 19</Item>
+    <Item x="0" y="0" flag="40">レイヤー 20</Item>
+    <Item x="0" y="0" flag="40">レイヤー 21</Item>
+    <Item x="0" y="0" flag="40">レイヤー 22</Item>
+    <Item x="0" y="0" flag="40">レイヤー 23</Item>
+    <Item x="0" y="0" flag="40">レイヤー 24</Item>
+    <Item x="0" y="0" flag="40">レイヤー 25</Item>
+    <Item x="0" y="0" flag="40">レイヤー 26</Item>
+    <Item x="0" y="0" flag="40">レイヤー 27</Item>
+    <Item x="0" y="0" flag="40">レイヤー 28</Item>
+    <Item x="0" y="0" flag="40">レイヤー 29</Item>
+    <Item x="0" y="0" flag="40">レイヤー 30</Item>
+    <Item x="0" y="0" flag="40">レイヤー 31</Item>
+    <Item x="0" y="0" flag="40">レイヤー 32</Item>
+    <Item x="0" y="0" flag="40">レイヤー 33</Item>
+    <Item x="0" y="0" flag="40">レイヤー 34</Item>
+    <Item x="0" y="0" flag="40">レイヤー 35</Item>
+    <Item x="0" y="0" flag="40">レイヤー 36</Item>
+    <Item x="0" y="0" flag="40">レイヤー 37</Item>
+    <Item x="0" y="0" flag="40">レイヤー 38</Item>
+    <Item x="0" y="0" flag="40">レイヤー 39</Item>
+    <Item x="0" y="0" flag="40">レイヤー 40</Item>
+    <Item x="0" y="0" flag="40">レイヤー 41</Item>
+    <Item x="0" y="0" flag="40">レイヤー 42</Item>
+    <Item x="0" y="0" flag="40">レイヤー 43</Item>
+    <Item x="0" y="0" flag="40">レイヤー 44</Item>
+    <Item x="0" y="0" flag="40">レイヤー 45</Item>
+    <Item x="0" y="0" flag="40">レイヤー 46</Item>
+    <Item x="0" y="0" flag="40">レイヤー 47</Item>
+    <Item x="0" y="0" flag="40">レイヤー 48</Item>
+    <Item x="0" y="0" flag="40">レイヤー 49</Item>
+    <Item x="0" y="0" flag="40">レイヤー 50</Item>
+    <Item x="0" y="0" flag="40">レイヤー 51</Item>
+    <Item x="0" y="0" flag="40">レイヤー 52</Item>
+    <Item x="0" y="0" flag="40">レイヤー 53</Item>
+    <Item x="0" y="0" flag="40">レイヤー 54</Item>
+    <Item x="0" y="0" flag="40">レイヤー 55</Item>
+    <Item x="0" y="0" flag="40">レイヤー 56</Item>
+    <Item x="0" y="0" flag="40">レイヤー 57</Item>
+    <Item x="0" y="0" flag="40">レイヤー 58</Item>
+    <Item x="0" y="0" flag="40">レイヤー 59</Item>
+    <Item x="0" y="0" flag="40">レイヤー 60</Item>
+  </Items>
+</Canvas>

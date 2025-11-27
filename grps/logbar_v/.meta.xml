@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>652</Width>
+  <Height>14</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">レイヤー 1</Item>
+    <Item x="41" y="4" flag="8">back</Item>
+    <Item x="42" y="5" flag="10">range</Item>
+    <Item x="42" y="5" flag="8">hand</Item>
+    <Item x="42" y="5" flag="8">hand_f</Item>
+    <Item x="632" y="0" flag="40">end_f</Item>
+    <Item x="632" y="0" flag="40">end</Item>
+    <Item x="616" y="0" flag="40">next_f</Item>
+    <Item x="616" y="0" flag="40">next</Item>
+    <Item x="22" y="0" flag="40">prev_f</Item>
+    <Item x="22" y="0" flag="40">prev</Item>
+    <Item x="0" y="0" flag="40">begin_f</Item>
+    <Item x="0" y="0" flag="40">begin</Item>
+  </Items>
+</Canvas>

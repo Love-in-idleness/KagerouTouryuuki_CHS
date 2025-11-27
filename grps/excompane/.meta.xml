@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>300</Width>
+  <Height>50</Height>
+  <Items>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="42" y="31" flag="40">snap_2_c</Item>
+    <Item x="42" y="31" flag="40">snap_2_l</Item>
+    <Item x="42" y="31" flag="40">snap_2</Item>
+    <Item x="42" y="31" flag="40">snap_2_f</Item>
+    <Item x="0" y="0" flag="56">snap2</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="42" y="19" flag="40">snap_1_c</Item>
+    <Item x="42" y="19" flag="40">snap_1_l</Item>
+    <Item x="42" y="19" flag="40">snap_1</Item>
+    <Item x="42" y="19" flag="40">snap_1_f</Item>
+    <Item x="0" y="0" flag="56">snap1</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="42" y="7" flag="40">snap_0_c</Item>
+    <Item x="42" y="7" flag="40">snap_0_l</Item>
+    <Item x="42" y="7" flag="40">snap_0</Item>
+    <Item x="42" y="7" flag="40">snap_0_f</Item>
+    <Item x="0" y="0" flag="56">snap0</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="26" y="31" flag="40">snap_5_c</Item>
+    <Item x="26" y="31" flag="40">snap_5_l</Item>
+    <Item x="26" y="31" flag="40">snap_5</Item>
+    <Item x="26" y="31" flag="40">snap_5_f</Item>
+    <Item x="0" y="0" flag="56">snap5</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="26" y="19" flag="40">snap_4_c</Item>
+    <Item x="26" y="19" flag="40">snap_4_l</Item>
+    <Item x="26" y="19" flag="40">snap_4</Item>
+    <Item x="26" y="19" flag="40">snap_4_f</Item>
+    <Item x="0" y="0" flag="56">snap4</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="26" y="7" flag="40">snap_3_c</Item>
+    <Item x="26" y="7" flag="40">snap_3_l</Item>
+    <Item x="26" y="7" flag="40">snap_3</Item>
+    <Item x="26" y="7" flag="40">snap_3_f</Item>
+    <Item x="0" y="0" flag="56">snap3</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="10" y="31" flag="40">snap_8_c</Item>
+    <Item x="10" y="31" flag="40">snap_8_l</Item>
+    <Item x="10" y="31" flag="40">snap_8</Item>
+    <Item x="10" y="31" flag="40">snap_8_f</Item>
+    <Item x="0" y="0" flag="56">snap8</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="10" y="19" flag="40">snap_7_c</Item>
+    <Item x="10" y="19" flag="40">snap_7_l</Item>
+    <Item x="10" y="19" flag="40">snap_7</Item>
+    <Item x="10" y="19" flag="40">snap_7_f</Item>
+    <Item x="0" y="0" flag="56">snap7</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="10" y="7" flag="40">snap_6_c</Item>
+    <Item x="10" y="7" flag="40">snap_6_l</Item>
+    <Item x="10" y="7" flag="40">snap_6</Item>
+    <Item x="10" y="7" flag="40">snap_6_f</Item>
+    <Item x="0" y="0" flag="56">snap6</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="116" y="25" flag="40">size_0_c</Item>
+    <Item x="116" y="25" flag="40">size_0_l</Item>
+    <Item x="116" y="25" flag="40">size_0</Item>
+    <Item x="116" y="25" flag="40">size_0_f</Item>
+    <Item x="142" y="25" flag="40">size_1_c</Item>
+    <Item x="142" y="25" flag="40">size_1_l</Item>
+    <Item x="142" y="25" flag="40">size_1</Item>
+    <Item x="142" y="25" flag="40">size_1_f</Item>
+    <Item x="168" y="25" flag="40">size_2_c</Item>
+    <Item x="168" y="25" flag="40">size_2_l</Item>
+    <Item x="168" y="25" flag="40">size_2</Item>
+    <Item x="168" y="25" flag="40">size_2_f</Item>
+    <Item x="0" y="0" flag="56">フォントサイズ</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="90" y="25" flag="40">font_0</Item>
+    <Item x="90" y="25" flag="40">font_0_f</Item>
+    <Item x="0" y="0" flag="56">フォント</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="64" y="25" flag="40">dir_0</Item>
+    <Item x="64" y="25" flag="40">dir_0_f</Item>
+    <Item x="64" y="25" flag="40">dir_1</Item>
+    <Item x="64" y="25" flag="40">dir_1_f</Item>
+    <Item x="0" y="0" flag="56">テキスト方向</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="194" y="25" flag="40">shdw_0</Item>
+    <Item x="194" y="25" flag="40">shdw_0_f</Item>
+    <Item x="194" y="25" flag="40">shdw_1</Item>
+    <Item x="194" y="25" flag="40">shdw_1_f</Item>
+    <Item x="0" y="0" flag="56">ドロップシャドウボタン</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="220" y="25" flag="40">tfcs_0</Item>
+    <Item x="220" y="25" flag="40">tfcs_0_f</Item>
+    <Item x="220" y="25" flag="40">tfcs_1</Item>
+    <Item x="220" y="25" flag="40">tfcs_1_f</Item>
+    <Item x="0" y="0" flag="56">テキストフォーカスon/off</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="246" y="25" flag="40">lctr_0</Item>
+    <Item x="246" y="25" flag="40">lctr_0_f</Item>
+    <Item x="246" y="25" flag="40">lctr_1</Item>
+    <Item x="246" y="25" flag="40">lctr_1_f</Item>
+    <Item x="0" y="0" flag="56">テキスト回避on/off</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="272" y="25" flag="40">lfcs_0</Item>
+    <Item x="272" y="25" flag="40">lfcs_0_f</Item>
+    <Item x="272" y="25" flag="40">lfcs_1</Item>
+    <Item x="272" y="25" flag="40">lfcs_1_f</Item>
+    <Item x="0" y="0" flag="56">キャラフォーカス</Item>
+  </Items>
+</Canvas>

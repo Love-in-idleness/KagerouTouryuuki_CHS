@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>800</Width>
+  <Height>600</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">bg</Item>
+    <Item x="0" y="0" flag="56">&lt;/Layer set&gt;</Item>
+    <Item x="235" y="261" flag="40">cg</Item>
+    <Item x="235" y="261" flag="40">cg_f</Item>
+    <Item x="189" y="261" flag="40">sc</Item>
+    <Item x="189" y="261" flag="40">sc_f</Item>
+    <Item x="141" y="260" flag="40">ms</Item>
+    <Item x="141" y="260" flag="40">ms_f</Item>
+    <Item x="94" y="263" flag="40">exit</Item>
+    <Item x="94" y="263" flag="40">exit_f</Item>
+    <Item x="0" y="0" flag="56">button</Item>
+  </Items>
+</Canvas>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>800</Width>
+  <Height>600</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">bg</Item>
+    <Item x="682" y="542" flag="40">exit</Item>
+    <Item x="682" y="542" flag="40">exit_f</Item>
+    <Item x="43" y="542" flag="40">play</Item>
+    <Item x="93" y="542" flag="40">pause</Item>
+    <Item x="143" y="542" flag="40">stop</Item>
+    <Item x="193" y="542" flag="40">rev</Item>
+    <Item x="243" y="542" flag="40">fow</Item>
+    <Item x="43" y="542" flag="40">play_f</Item>
+    <Item x="93" y="542" flag="40">pause_f</Item>
+    <Item x="143" y="542" flag="40">stop_f</Item>
+    <Item x="193" y="542" flag="40">rev_f</Item>
+    <Item x="243" y="542" flag="40">fow_f</Item>
+    <Item x="474" y="552" flag="8">bar</Item>
+    <Item x="474" y="552" flag="8">bar_f</Item>
+    <Item x="384" y="552" flag="8">level</Item>
+    <Item x="67" y="81" flag="40">1</Item>
+    <Item x="67" y="136" flag="40">2</Item>
+    <Item x="67" y="191" flag="40">3</Item>
+    <Item x="67" y="246" flag="40">4</Item>
+    <Item x="67" y="301" flag="40">5</Item>
+    <Item x="67" y="356" flag="40">6</Item>
+    <Item x="67" y="411" flag="40">7</Item>
+    <Item x="67" y="466" flag="40">8</Item>
+    <Item x="407" y="81" flag="40">9</Item>
+    <Item x="407" y="136" flag="40">10</Item>
+    <Item x="407" y="191" flag="40">11</Item>
+    <Item x="407" y="246" flag="40">12</Item>
+    <Item x="407" y="301" flag="40">13</Item>
+    <Item x="407" y="356" flag="40">14</Item>
+    <Item x="407" y="411" flag="40">15</Item>
+    <Item x="67" y="81" flag="40">1_f</Item>
+    <Item x="67" y="136" flag="40">2_f</Item>
+    <Item x="67" y="191" flag="40">3_f</Item>
+    <Item x="67" y="246" flag="40">4_f</Item>
+    <Item x="67" y="301" flag="40">5_f</Item>
+    <Item x="67" y="356" flag="40">6_f</Item>
+    <Item x="67" y="411" flag="40">7_f</Item>
+    <Item x="67" y="466" flag="40">8_f</Item>
+    <Item x="407" y="81" flag="40">9_f</Item>
+    <Item x="407" y="136" flag="40">10_f</Item>
+    <Item x="407" y="191" flag="40">11_f</Item>
+    <Item x="407" y="246" flag="40">12_f</Item>
+    <Item x="407" y="301" flag="40">13_f</Item>
+    <Item x="407" y="356" flag="40">14_f</Item>
+    <Item x="407" y="411" flag="40">15_f</Item>
+    <Item x="67" y="81" flag="40">1_p</Item>
+    <Item x="67" y="136" flag="40">2_p</Item>
+    <Item x="67" y="191" flag="40">3_p</Item>
+    <Item x="67" y="246" flag="40">4_p</Item>
+    <Item x="67" y="301" flag="40">5_p</Item>
+    <Item x="67" y="356" flag="40">6_p</Item>
+    <Item x="67" y="411" flag="40">7_p</Item>
+    <Item x="67" y="466" flag="40">8_p</Item>
+    <Item x="407" y="81" flag="40">9_p</Item>
+    <Item x="407" y="136" flag="40">10_p</Item>
+    <Item x="407" y="191" flag="40">11_p</Item>
+    <Item x="407" y="246" flag="40">12_p</Item>
+    <Item x="407" y="301" flag="40">13_p</Item>
+    <Item x="407" y="356" flag="40">14_p</Item>
+    <Item x="407" y="411" flag="40">15_p</Item>
+  </Items>
+</Canvas>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>800</Width>
+  <Height>600</Height>
+  <Items>
+    <Item x="0" y="0" flag="40">bg_load</Item>
+    <Item x="0" y="0" flag="40">bg_save</Item>
+    <Item x="412" y="432" flag="40">9</Item>
+    <Item x="412" y="352" flag="40">8</Item>
+    <Item x="412" y="272" flag="40">7</Item>
+    <Item x="412" y="192" flag="40">6</Item>
+    <Item x="412" y="112" flag="40">5</Item>
+    <Item x="38" y="432" flag="40">4</Item>
+    <Item x="38" y="352" flag="40">3</Item>
+    <Item x="38" y="272" flag="40">2</Item>
+    <Item x="38" y="192" flag="40">1</Item>
+    <Item x="38" y="112" flag="40">0</Item>
+    <Item x="605" y="530" flag="40">10</Item>
+    <Item x="555" y="530" flag="40">09</Item>
+    <Item x="505" y="530" flag="40">08</Item>
+    <Item x="455" y="530" flag="40">07</Item>
+    <Item x="405" y="530" flag="40">06</Item>
+    <Item x="355" y="530" flag="40">05</Item>
+    <Item x="305" y="530" flag="40">04</Item>
+    <Item x="255" y="530" flag="40">03</Item>
+    <Item x="205" y="530" flag="40">02</Item>
+    <Item x="155" y="530" flag="40">01</Item>
+    <Item x="605" y="530" flag="40">10_f</Item>
+    <Item x="555" y="530" flag="40">09_f</Item>
+    <Item x="505" y="530" flag="40">08_f</Item>
+    <Item x="455" y="530" flag="40">07_f</Item>
+    <Item x="405" y="530" flag="40">06_f</Item>
+    <Item x="355" y="530" flag="40">05_f</Item>
+    <Item x="305" y="530" flag="40">04_f</Item>
+    <Item x="255" y="530" flag="40">03_f</Item>
+    <Item x="205" y="530" flag="40">02_f</Item>
+    <Item x="155" y="530" flag="40">01_f</Item>
+    <Item x="682" y="530" flag="40">exit</Item>
+    <Item x="682" y="530" flag="40">exit_f</Item>
+    <Item x="43" y="530" flag="40">prev</Item>
+    <Item x="43" y="530" flag="40">prev_f</Item>
+    <Item x="93" y="530" flag="40">next</Item>
+    <Item x="93" y="530" flag="40">next_f</Item>
+  </Items>
+</Canvas>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>205</Width>
+  <Height>18</Height>
+  <Items>
+    <Item x="20" y="1" flag="40">slide_lev</Item>
+    <Item x="23" y="8" flag="41">bg</Item>
+    <Item x="103" y="1" flag="40">rev</Item>
+    <Item x="103" y="1" flag="40">rev_f</Item>
+    <Item x="120" y="1" flag="40">bak</Item>
+    <Item x="120" y="1" flag="40">bak_f</Item>
+    <Item x="137" y="1" flag="40">skip</Item>
+    <Item x="137" y="1" flag="40">skip_f</Item>
+    <Item x="154" y="1" flag="40">auto</Item>
+    <Item x="154" y="1" flag="40">auto_f</Item>
+    <Item x="171" y="1" flag="40">voc</Item>
+    <Item x="171" y="1" flag="40">voc_f</Item>
+    <Item x="188" y="1" flag="40">hide</Item>
+    <Item x="188" y="1" flag="40">hide_f</Item>
+    <Item x="21" y="2" flag="41">slide</Item>
+    <Item x="21" y="2" flag="9">slide_f</Item>
+  </Items>
+</Canvas>
