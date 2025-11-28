@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Width>18</Width>
-  <Height>18</Height>
-  <Items>
-    <Item x="0" y="0" flag="40">voc_f</Item>
-    <Item x="0" y="0" flag="40">voc</Item>
-  </Items>
-</Canvas>
