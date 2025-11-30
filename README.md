@@ -21,6 +21,6 @@ grpo和grps下是需要汉化的图像文件，本人不太熟悉图像，自己
 将scr与grpo文件夹与kagerou_gbk.exe放于游戏目录下，启动kagerou_gbk.exe即可。
 
 ## 汉化进度
-scr：0999至1004已汉化。  
+scr：0999至1005已汉化。  
 grpo：8011至8022已汉化。  
 kagerou_gbk.exe：游戏名称显示、退出提示、覆盖存档提示、读档提示、返回标题提示已汉化。
