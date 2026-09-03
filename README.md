@@ -14,10 +14,4 @@ grpo和grps下是汉化的图像文件。
 文字行数未能与原文完全统一。
 
 ## 使用说明
-将scr与grpo文件夹与kagerou_gbk.exe放于游戏目录下，启动kagerou_gbk.exe即可。
-
-## 汉化进度
-scr：已汉化。  
-grpo：已汉化。  
-grps：关于savescrn、scview、cgview已汉化。dt1汉化进度搁置，未来重新考虑。  
-kagerou_gbk.exe：游戏名称显示、字体效果显示、场景鉴赏显示、退出提示、覆盖存档提示、读档提示、返回标题提示已汉化。
+放于游戏目录下，启动kagerou_gbk.exe即可。
